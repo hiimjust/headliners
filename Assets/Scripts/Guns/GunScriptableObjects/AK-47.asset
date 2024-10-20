@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998b6959338a67d49a1dcc4150585d5e, type: 3}
+  m_Name: AK-47
+  m_EditorClassIdentifier: 
+  gunName: AK-47
+  damage: 50
+  ammos: 30
+  ammosPerTap: 1
+  hitRate: 0.1
+  reloadTime: 2.4
+  aimFov: 30
+  vfx: {fileID: 613433886817584985, guid: 9df5951e3041ae345a39e4bce6d55f4a, type: 3}
+  gunSound: {fileID: 8300000, guid: b2ab04b326f5a7141b87f55995c58b93, type: 3}
+  gunReloadSound: {fileID: 8300000, guid: ed513d42b6510494eae64be749395426, type: 3}

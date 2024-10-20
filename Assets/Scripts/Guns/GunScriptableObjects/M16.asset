@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998b6959338a67d49a1dcc4150585d5e, type: 3}
+  m_Name: M16
+  m_EditorClassIdentifier: 
+  gunName: M16
+  damage: 30
+  ammos: 30
+  ammosPerTap: 1
+  hitRate: 0.1
+  reloadTime: 3
+  aimFov: 30
+  vfx: {fileID: 0}
+  gunSound: {fileID: 8300000, guid: 0e2d9b1b8b6e84847bf0686a7ad16338, type: 3}
+  gunReloadSound: {fileID: 8300000, guid: 8d520e8a301940a4895067eb098868ad, type: 3}

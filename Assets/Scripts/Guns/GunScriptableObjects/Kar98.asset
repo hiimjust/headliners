@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998b6959338a67d49a1dcc4150585d5e, type: 3}
+  m_Name: Kar98
+  m_EditorClassIdentifier: 
+  gunName: Kar98
+  damage: 100
+  ammos: 15
+  ammosPerTap: 1
+  hitRate: 4
+  reloadTime: 3
+  aimFov: 22.5
+  vfx: {fileID: 0}
+  gunSound: {fileID: 8300000, guid: 8ef1a728dfa8d2b4a9913f099218f5ee, type: 3}
+  gunReloadSound: {fileID: 8300000, guid: 86a7525a9dfe39b4280c504040b83828, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998b6959338a67d49a1dcc4150585d5e, type: 3}
+  m_Name: MP5
+  m_EditorClassIdentifier: 
+  gunName: MP5
+  damage: 20
+  ammos: 50
+  ammosPerTap: 1
+  hitRate: 0.08
+  reloadTime: 3
+  aimFov: 30
+  vfx: {fileID: 0}
+  gunSound: {fileID: 8300000, guid: 66399d5bb74cc0b45aacf1b96f33b4c9, type: 3}
+  gunReloadSound: {fileID: 8300000, guid: 548d16ff544407a4891ec2affb840bee, type: 3}
