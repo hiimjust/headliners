@@ -3,8 +3,8 @@
 Multiplayer Battle Royale Game
 
 * Tech stack: Unity(Game Engine), Photon PUN2 (Multiplayer Framework)
-* Game design: TBD
-* Game demo: TBD
+* Game design: [Link](https://short.com.vn/f7Gl)
+* Game demo: [Link](https://s.pro.vn/k7WO)
 
 ## OVERVIEW
 
