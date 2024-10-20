@@ -12,4 +12,4 @@ Multiplayer Battle Royale Game
 
 <img src="https://github.com/hiimjust/headliners/blob/main/Assets/Materials/Artworks/gameproduct_combat.PNG">
 
-Inspired by PUBG and Battle Royale movie (2000)
+Inspired by PUBG and Battle Royale movie (2000).
